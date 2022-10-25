@@ -1,5 +1,4 @@
 class Solution:
-    __scope__ = ['result']
     def decode(self, encoded: List[int], first: int) -> List[int]:
         result = [first]
         for n in encoded:
