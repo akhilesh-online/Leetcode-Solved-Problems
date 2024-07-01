@@ -5,9 +5,9 @@ class Solution:
         """
         zeroth_position = 0
         
-        for pos, num in enumerate(nums):
-            if num != 0 and nums[zeroth_position] == 0:
-                nums[zeroth_position], nums[pos] = num, nums[zeroth_position]
+        for pos in range(len(nums)):
+            if nums[pos] != 0 and nums[zeroth_position] == 0:
+                nums[zeroth_position], nums[pos] = nums[pos], nums[zeroth_position]
             
             if nums[zeroth_position] != 0:
                 zeroth_position += 1
