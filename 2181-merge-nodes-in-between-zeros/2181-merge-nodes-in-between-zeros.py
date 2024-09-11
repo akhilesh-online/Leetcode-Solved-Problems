@@ -5,24 +5,24 @@
 #         self.next = next
 class Solution:
     def mergeNodes(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        modify_ptr = head.next
-        traverse_ptr = modify_ptr
+        modify = head.next
+        traverse = modify
         
-        while traverse_ptr:
+        while traverse:
             sum = 0
             
             # Calculate sum of non-zero value nodes
-            while traverse_ptr.val != 0:
-                sum += traverse_ptr.val
-                traverse_ptr = traverse_ptr.next
+            while traverse.val != 0:
+                sum += traverse.val
+                traverse = traverse.next
             
-            # Assign sum to the modify_ptr node value
-            modify_ptr.val = sum
-            # Move traverse_ptr to next non-zero value
-            traverse_ptr = traverse_ptr.next
+            # Assign sum to the modify node value
+            modify.val = sum
+            # Move traverse to next non-zero value
+            traverse = traverse.next
             
-            # Connect modify_ptr to above node
-            modify_ptr.next = traverse_ptr
-            modify_ptr = modify_ptr.next
+            # Connect modify to above node
+            modify.next = traverse
+            modify = modify.next
         
         return head.next
