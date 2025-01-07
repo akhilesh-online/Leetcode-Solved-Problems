@@ -25,9 +25,23 @@
 ## Array
 |  |
 | ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/akhilesh-online/Leetcode-Solved-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/akhilesh-online/Leetcode-Solved-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
 | ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/akhilesh-online/Leetcode-Solved-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/akhilesh-online/Leetcode-Solved-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+## String
+|  |
+| ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/akhilesh-online/Leetcode-Solved-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/akhilesh-online/Leetcode-Solved-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
+## Counting
+|  |
+| ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/akhilesh-online/Leetcode-Solved-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
