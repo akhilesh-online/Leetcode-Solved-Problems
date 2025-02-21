@@ -25,6 +25,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/akhilesh-online/Leetcode-Solved-Problems/tree/master/0011-container-with-most-water) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/akhilesh-online/Leetcode-Solved-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/akhilesh-online/Leetcode-Solved-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
@@ -44,4 +45,12 @@
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/akhilesh-online/Leetcode-Solved-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/akhilesh-online/Leetcode-Solved-Problems/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/akhilesh-online/Leetcode-Solved-Problems/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
