@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/akhilesh-online/Leetcode-Solved-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [3379-score-of-a-string](https://github.com/akhilesh-online/Leetcode-Solved-Problems/tree/master/3379-score-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
